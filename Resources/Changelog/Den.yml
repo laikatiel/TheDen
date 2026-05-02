@@ -18956,3 +18956,20 @@ Entries:
   id: 1866
   time: '2026-05-02T15:48:57.0000000+00:00'
   url: https://github.com/TheDenSS14/TheDen/pull/2675
+- author: Sha-Seng
+  changes:
+    - type: Add
+      message: >-
+        Added the Mantis Wolfskin cloak to loadout, which has a built-in toggled
+        hat.
+    - type: Tweak
+      message: >-
+        Salvagers can now find the three mantis neck items on the mantis bodies
+        they find in space, because they look cool on hardsuits.
+    - type: Tweak
+      message: >-
+        Faust's sheath sprite has had a couple pixels removed so it plays nicer
+        with cloaks.
+  id: 1867
+  time: '2026-05-02T18:17:37.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/2669
