@@ -18946,3 +18946,13 @@ Entries:
   id: 1865
   time: '2026-04-30T22:31:49.0000000+00:00'
   url: https://github.com/TheDenSS14/TheDen/pull/2622
+- author: MajorMoth
+  changes:
+    - type: Tweak
+      message: >-
+        The syndicate communication console's header will now say "Gorlex
+        Marauder Announcement" instead of "Syndicate Nuclear Operative
+        Annoucement".
+  id: 1866
+  time: '2026-05-02T15:48:57.0000000+00:00'
+  url: https://github.com/TheDenSS14/TheDen/pull/2675
